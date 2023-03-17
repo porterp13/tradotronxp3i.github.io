@@ -1,0 +1,1 @@
+document.getElementById("netProfit").innerHTML = 100;

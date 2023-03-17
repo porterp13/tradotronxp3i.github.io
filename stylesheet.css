@@ -1,0 +1,25 @@
+body {
+    background-image: url("/Site/tradotron.png");
+    background-size: cover;
+}
+
+.profitNumbers {
+    position: absolute;
+    margin-top: 454px;
+    margin-left: 1755px;
+    font: 48px Bold;
+    color: #39da3f;
+    rotate: 1deg;
+    mix-blend-mode: color-dodge;
+    transform: rotateY(50deg);
+}
+
+#netProfit {
+    font-family: Verdana;
+    height: 24px;
+}
+
+#profitLoss {
+    font-family: Verdana;
+}
+
